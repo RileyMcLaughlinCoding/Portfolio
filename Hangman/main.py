@@ -1,5 +1,5 @@
 
-word = ('annoying')
+word = ('enter word here')
 
 guessed_letters = []
 
